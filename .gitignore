@@ -18,3 +18,5 @@ __MACOSX
 .DS_Store
 Thumbs.db
 /public2
+/public/global/jpstv/*.ogv
+/public/slides
